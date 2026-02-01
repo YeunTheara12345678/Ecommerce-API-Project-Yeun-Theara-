@@ -2,16 +2,19 @@
 __pycache__/
 *.pyc
 
-# Virtual env
-.venv/
+# Virtual environment
+venv/
+env/
 
-# Environment
+# Environment variables
 .env
 
-# SQLite database
-instance/*.db
+# Database
+*.db
 
 # IDE
 .idea/
 .vscode/
 
+# OS
+.DS_Store
