@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 
+# Virtual env
+.venv/
+
 # Virtual environment
 venv/
 env/
@@ -9,6 +12,8 @@ env/
 # Environment variables
 .env
 
+# SQLite database
+instance/*.db
 # Database
 *.db
 
