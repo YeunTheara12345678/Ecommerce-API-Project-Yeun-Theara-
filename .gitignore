@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.pyc
 
@@ -16,10 +15,3 @@ env/
 instance/*.db
 # Database
 *.db
-
-# IDE
-.idea/
-.vscode/
-
-# OS
-.DS_Store
